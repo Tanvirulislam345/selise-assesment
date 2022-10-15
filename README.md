@@ -1,4 +1,1 @@
-# Learn react js
-## a. React Hooks
-*   useState hooks 
-
+# This is Assesment that was given from selise digital platforms.
